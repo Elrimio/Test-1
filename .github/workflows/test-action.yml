@@ -89,5 +89,5 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           JAVA_HOME: ${{ env.JAVA_HOME }} # Убедитесь, что JAVA_HOME указывает на JDK 17 
         run: |
-          export PATH=$JAVA_HOME/bin:$PATH # Убедитесь, что PATH обновлен для использования JDK 17 
+          export PATH=$JAVA_HOME/bin:$PATH # Обновление PATH для использования JDK 17 
           sonar-scanner --define sonar.host.url="${{ env.SONAR_SERVER_URL }}" --define sonar.cfamily.build-wrapper-output="${{ env.BUILD_WRAPPER_OUT_DIR }}"
