@@ -1,8 +1,8 @@
-[![CI/CD GitHub Actions](https://github.com/Student5427/ctest2/actions/workflows/test-action.yml/badge.svg)](https://github.com/Student5427/ctest2/actions/workflows/test-action.yml)
-[![Coverage Status](https://coveralls.io/repos/github/DenisTerehin/ctest/badge.svg?branch=main)](https://coveralls.io/github/Student5427/ctest2?branch=main)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=DenisTerehin_ctest&metric=alert_status)](https://sonarcloud.io/dashboard?id=Student5427_ctest2)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=DenisTerehin_ctest&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Student5427_ctest2)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=DenisTerehin_ctest&metric=code_smells)](https://sonarcloud.io/dashboard?id=Student5427_ctest2)
+[![CI/CD GitHub Actions](https://github.com/Elrimio/Test-1/actions/workflows/test-action.yml/badge.svg)](https://github.com/Elrimio/Test-1/actions/workflows/test-action.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ELrimio/Test-1/badge.svg?branch=main)](https://coveralls.io/github/Elrimio/Test-1?branch=main)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test-1&metric=alert_status)](https://sonarcloud.io/dashboard?id=Elrimio_Test-1)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test-1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Elrimio_Test-1)
+[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test-1&metric=code_smells)](https://sonarcloud.io/dashboard?id=Elrimio_Test-1)
 
 
 # План тестирования:
